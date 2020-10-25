@@ -1,28 +1,9 @@
-/*
-Requirements
-Used a new form named customerSelect.
-Used a Select query and AJAX call to get all the customers from the database. 
-Displayed all the customers in a textArea or Dropdown so user can pick one. 
-Used a sql Select  query to get all of the customers whose state matches the state of the customer chosen by the user. 
-Used a textArea to show the user the matching customers, one per line, using a template literal. 
-*/
-/*
-> form named customerSelect
-> used Select to get all customers from database
-> displayed all customers in textArea or Dropdown control 
-> user can select one customer
-> Used a sql Select  query to get all of the customers whose state matches the state of the customer chosen by the user. 
-> Used a textArea to show the user the matching customers, one per line, using a template literal.
-*/
-
-
 // global variables for database calls
 let req = ""
 let query = ""
 let results = ""
 let pw = "14421442Kh" // put your database password here
 let userName = 'kmh76825'
-
 
 customerSelect.onshow=function(){
   drpCustomer.clear()
@@ -78,10 +59,8 @@ drpCustomer.onclick=function(s){
   }  
 }
 
-
-/*
 btnNextPage.onclick=function(){
   ChangeForm(customerDelete)
 }
-*/
+
 

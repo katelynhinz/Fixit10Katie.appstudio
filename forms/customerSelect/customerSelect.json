@@ -16,15 +16,6 @@
         "forms",
         "customerSelect",
         "Elements",
-        "lblMessage1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerSelect",
-        "Elements",
         "txtResults.json"
       ]
     },
