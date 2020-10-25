@@ -42,6 +42,14 @@
             "customerAdd",
             "customerAdd.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerUpdate",
+            "customerUpdate.json"
+          ]
         }
       ],
       "configxml": null,
