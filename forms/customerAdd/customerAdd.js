@@ -1,27 +1,3 @@
-/*
-> Created a new form named customerAdd.
-> Used a textArea or Dropdown to display the customer names
-> Hard-coded the customer to add (just to save time). The name is :
-       Jesse Antiques, 1113 F St, Omaha, NE, 68178
-> When user clicks a button, the new customer is added to the control and the database.
-> Tell the user their new customer was added to the database. 
-> Uses a textArea to display the remaining customers.
-
-Program 3 - Adding a customer
-Scenario: You will create a program that adds a customer to the display 
-control and the database. Then the revised list of customer names are displayed.
-Requirements
-Created a new form named customerAdd. 
-Used a textArea or Dropdown to display the customer names
-Hard-coded the customer to add (just to save time). The name is :
-Jesse Antiques, 1113 F St, Omaha, NE, 68178
-When user clicks a button, the new customer is added to the control and the database.
-Tell the user their new customer was added to the database. 
-Used a textArea to display the remaining customers. 
-Note: make sure you don't add the employee ID since this is an auto-increment 
-field (so the DB creates the number for you automatically).
-*/
-
 req = ""
 query = ""
 results = ""
