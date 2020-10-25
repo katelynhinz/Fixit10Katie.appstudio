@@ -36,6 +36,15 @@
         "Elements",
         "drpCustomer.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerSelect",
+        "Elements",
+        "btnNextPage.json"
+      ]
     }
   ],
   "class": "",
