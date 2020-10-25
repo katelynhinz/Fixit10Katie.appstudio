@@ -16,16 +16,7 @@
         "forms",
         "customerAdd",
         "Elements",
-        "txtResults1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerAdd",
-        "Elements",
-        "drpCustomer1.json"
+        "txtAdd.json"
       ]
     },
     {
@@ -35,6 +26,15 @@
         "customerAdd",
         "Elements",
         "btnNextPage2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "btnAddCustomer.json"
       ]
     }
   ],

@@ -57,7 +57,7 @@ btnAddCustomer.onclick = function() {
   // change value of text area
   txtAdd.value = customersAdd
 }
-Button1.onclick=function(){
+btnNextPage2.onclick=function(){
   ChangeForm(customerUpdate)
 }
 
