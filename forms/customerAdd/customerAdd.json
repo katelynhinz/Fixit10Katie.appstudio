@@ -14,27 +14,27 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "txtDelete.json"
+        "txtResults1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "drpDelete.json"
+        "drpCustomer1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "btnNextPage1.json"
+        "btnNextPage2.json"
       ]
     }
   ],
@@ -44,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerDelete",
+  "id": "customerAdd",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
